@@ -2,7 +2,7 @@
 
 def speak_to_grandma(text)
 
-  if ( !text == text.upcase)
+  if ( !(text == text.upcase)
     binding.pry
     puts "HUH?! SPEAK UP, SONNY!"
   elsif (text == "I LOVE YOU GRANDMA!")
