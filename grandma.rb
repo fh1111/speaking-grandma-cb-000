@@ -13,7 +13,7 @@ def speak_to_grandma(text)
 
 end
 
-speak_to_grandma('I LOVE YOU GRANDMA!')
+speak_to_grandma('abc')
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
