@@ -4,11 +4,10 @@ def speak_to_grandma(text)
 
   if ( !text == text.upcase)
     puts "HUH?! SPEAK UP, SONNY!"
-    if (text == "I LOVE YOU GRANDMA!")
+  elsif (text == "I LOVE YOU GRANDMA!")
     puts ("I LOVE YOU TOO PUMPKIN!")
-    else
+  else
     puts "NO, NOT SINCE 1938!"
-    end
   end
 
 end
